@@ -5,6 +5,7 @@ No build neccesary.
 ● Usage
 
 chmod +x random10.sh
+
 ./random10.sh
 
 ● Description
