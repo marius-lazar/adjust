@@ -15,4 +15,9 @@ The script takes the numbers from 1 to 10 and puts them in a random order.
 ● Known limitations / bugs
 
 No bugs found.
-All subsequent runs of the script returned different results.
+
+● Testing 
+
+watch -n 1 random10.sh
+
+All runs of the script returned different results.
